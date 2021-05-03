@@ -23,8 +23,8 @@ There is a bulleted list with four major points from the two analysis deliverabl
 Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
 How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 
-90,398 roles will need to be filled after the "silver tsunami" happens when looking at the retiring_titles table.
+When looking at the retiring_titles table, 90,398 roles will need to be filled after the "silver tsunami" happens.
 
-Some tables or additional queries this may need could be to see if the employee has other responsibilities which would make them too busy to participate in a mentorship program even if they’re eligible. Another table we should add is a table to add people born in other years to be eligible for the mentorship if they need more roles to be filled because that would give them more people to choose from.
+Some tables or additional queries this may need could be to see if the employee has other responsibilities which would make them too busy to participate in a mentorship program even if they’re eligible. Another table we should add is a table to add people born in other years to be eligible for the mentorship if they need more job roles to be filled because that would give them more people to choose from.
 
 Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
