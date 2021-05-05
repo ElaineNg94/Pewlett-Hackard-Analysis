@@ -9,7 +9,7 @@ There is a bulleted list with four major points from the two analysis deliverabl
 
 * People born between the years 1952 to 1955 are the ones who are currently working at the company, but haven’t retired yet. Some of them have multiple titles, so the retirement_titles query was to show their current title.
 
-* The mentorship eligibility table only shows people born in 1965. This ould mean there might be other employees who are eligible for the mentorship too if the query decided to look at the people who are born before 1965. This can affect the results of how many people are actually eligible for the mentorship.
+* The mentorship eligibility table only shows people born in 1965. This could mean there might be other employees who are eligible for the mentorship too if the query decided to look at the people who are born before 1965. This can affect the results of how many people are actually eligible for the mentorship.
 
 * From the retiring_titles table, it shows how many are retiring for each job title. The results show a lot of people with the title “Senior Engineer” is retired compared to people with the title “Manager”. Only 2 people with the title “Manager” are retiring, while 29414 people with the title “Senior Engineer” are retiring.
 
